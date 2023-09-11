@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.sitewide-banner {
+  color: #f1f1f1;
+  background-color: #3581B8;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  border-bottom: 1px solid #E5E5E5;
+}
